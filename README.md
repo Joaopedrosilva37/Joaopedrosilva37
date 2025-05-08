@@ -51,9 +51,9 @@ Se você quiser conversar, trocar ideias ou colaborar, aqui estão alguns links 
 
 ## 📈 Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&count_private=true&hide_title=true)](https://github.com/seu-usuario)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Joaopedrosilva37&show_icons=true&count_private=true&hide_title=true)](https://github.com/Joaopedrosilva37)
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=6)](https://github.com/seu-usuario)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopedrosilva37&layout=compact&langs_count=6)](https://github.com/Joaopedrosilva37)
 
 ---
 

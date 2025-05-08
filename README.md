@@ -1,21 +1,16 @@
-# 👋 Olá, me chamo [Seu Nome Aqui]!
+# 👋 Olá, me chamo João Pedro!
 
 ## Bem-vindo ao meu perfil no GitHub! 🎉
 
-Sou um entusiasta da tecnologia, com foco em [área de interesse principal, como desenvolvimento de software, eletrônica, etc.]. Atualmente, estou aprendendo mais sobre [tecnologias ou habilidades que está estudando] e buscando colaborar em projetos interessantes.
+Sou um entusiasta da tecnologia. Atualmente, estou cursando Engenharia de Software na FIAP e buscando mais conhecimento e colaborar em projetos interessantes.
 
 ---
 
 ## 🚀 O que estou fazendo atualmente
 
-- 🔭 Atualmente estou trabalhando em [seu projeto atual ou área de trabalho];
-- 🌱 Estou aprendendo [tecnologias ou habilidades que está estudando];
-- 👯 Estou procurando colaborar em projetos sobre [temas que você gostaria de colaborar];
-- 🤔 Estou procurando ajuda com [dúvidas ou áreas onde você precisa de mais ajuda];
-- 💬 Pergunte-me sobre [assuntos em que você é especializado ou tem interesse];
-- 📫 Como entrar em contato comigo: [informações de contato, como email ou redes sociais];
-- 😄 Pronomes: [seus pronomes];
-- ⚡ Curiosidade: [algo interessante sobre você, como hobbies ou algo que gosta de fazer no tempo livre].
+- 🌱 Estou aprendendo: Python, C, Javascript, front-end;
+- 📫 Como entrar em contato comigo: [jp-silvam@hotmail.com](mailto:jp-silvam@hotmail.com)
+- ⚡ Curiosidade: Gosto muito de novos desafios e de explorar cada vez mais o ramo do qual sou apaixonado: a tecnologia. No meu tempo livre procuro sempre me atualizar sobre as linguagens usadas no mercado e aprender novas coisas.
 
 ---
 
@@ -46,9 +41,9 @@ Estou focado em expandir meus conhecimentos nas seguintes áreas:
 Se você quiser conversar, trocar ideias ou colaborar, aqui estão alguns links para me encontrar:
 
 <div>
-<a href="https://www.linkedin.com/in/seu-usuario-linkedin" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:seu-email@dominio.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/seu-usuario-instagram" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-silva-de-menezes-3835b3226/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:jp-silvam@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/joaozinholo/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://github.com/seu-usuario" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 
@@ -62,17 +57,12 @@ Se você quiser conversar, trocar ideias ou colaborar, aqui estão alguns links 
 
 ---
 
-## 🐍 Animação de Contribuições
-
-![Snake animation](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 👾 Curiosidade sobre mim
 
-Além de ser apaixonado por [tecnologia, eletrônica, etc.], adoro [um hobby ou atividade que você gosta]. Também sou fã de [outra curiosidade interessante sobre você]! 🚀
+Além de ser apaixonado por tecnologia, adoro futebol e Video game! 🚀
 
 ---
 
 Obrigado por visitar meu perfil! Se você gosta do que vê, sinta-se à vontade para conferir meus projetos e contribuir com sugestões ou melhorias. 😄
+
 
